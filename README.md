@@ -9,11 +9,11 @@ The project is pushed to GitHub Pages using `gh-pages`.
 
 ### Install gh-pages
 
-`npm install --save gh-pages`
+`npm install gh-pages --save-dev`
 
 ### Build and deploy
 
-`npm run deploy`
+`npm run-script build`
 
 ---
 
