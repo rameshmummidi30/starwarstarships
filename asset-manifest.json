@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwarstarships/static/css/main.21bc7d61.chunk.css",
+    "main.js": "/starwarstarships/static/js/main.1a340bda.chunk.js",
+    "main.js.map": "/starwarstarships/static/js/main.1a340bda.chunk.js.map",
+    "runtime-main.js": "/starwarstarships/static/js/runtime-main.52f0aafa.js",
+    "runtime-main.js.map": "/starwarstarships/static/js/runtime-main.52f0aafa.js.map",
+    "static/js/2.f075ddaf.chunk.js": "/starwarstarships/static/js/2.f075ddaf.chunk.js",
+    "static/js/2.f075ddaf.chunk.js.map": "/starwarstarships/static/js/2.f075ddaf.chunk.js.map",
+    "index.html": "/starwarstarships/index.html",
+    "precache-manifest.d30c4a26bdb33767588f1f4ef687c840.js": "/starwarstarships/precache-manifest.d30c4a26bdb33767588f1f4ef687c840.js",
+    "service-worker.js": "/starwarstarships/service-worker.js",
+    "static/css/main.21bc7d61.chunk.css.map": "/starwarstarships/static/css/main.21bc7d61.chunk.css.map",
+    "static/js/2.f075ddaf.chunk.js.LICENSE.txt": "/starwarstarships/static/js/2.f075ddaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f0aafa.js",
+    "static/js/2.f075ddaf.chunk.js",
+    "static/css/main.21bc7d61.chunk.css",
+    "static/js/main.1a340bda.chunk.js"
+  ]
+}
